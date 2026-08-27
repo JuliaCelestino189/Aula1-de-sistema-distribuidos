@@ -1,0 +1,18 @@
+C:\Users\Julia>nslookup google.com
+Servidor:  UnKnown
+Address:  172.31.32.236
+
+Não é resposta autoritativa:
+Nome:    google.com
+Addresses:  2800:3f0:4001:80e::200e
+          172.217.172.46
+
+
+C:\Users\Julia>nslookup youtube.com
+Servidor:  UnKnown
+Address:  172.31.32.236
+
+Não é resposta autoritativa:
+Nome:    youtube.com
+Addresses:  2800:3f0:4001:839::200e
+          172.217.29.238
