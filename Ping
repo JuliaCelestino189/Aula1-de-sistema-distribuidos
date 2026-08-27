@@ -1,0 +1,20 @@
+Aula ping
+windows + r 
+Digita cmd 
+Enter 
+Digita: ping google.com
+E esse é o resoltado:
+
+C:\Users\Julia>ping google.com
+
+Disparando google.com [172.217.172.46] com 32 bytes de dados:
+Resposta de 172.217.172.46: bytes=32 tempo=13ms TTL=114
+Resposta de 172.217.172.46: bytes=32 tempo=10ms TTL=114
+Resposta de 172.217.172.46: bytes=32 tempo=9ms TTL=114
+Resposta de 172.217.172.46: bytes=32 tempo=9ms TTL=114
+
+Estatísticas do Ping para 172.217.172.46:
+    Pacotes: Enviados = 4, Recebidos = 4, Perdidos = 0 (0% de
+             perda),
+Aproximar um número redondo de vezes em milissegundos:
+    Mínimo = 9ms, Máximo = 13ms, Média = 10ms
